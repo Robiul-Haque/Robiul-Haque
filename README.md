@@ -1,4 +1,4 @@
-<img alt="MERN Stuck Developer" src="https://github.com/Robiul-Haque/Robiul-Haque/blob/main/banner.gif?raw=true"/>
+<img alt="MERN Stuck Developer" src="https://github.com/Robiul-Haque/Robiul-Haque/blob/main/banner.gif"/>
 
 <h1 align="center">Hi 👋, I'm Robiul Haque</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
