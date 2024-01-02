@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="robiul-haque" /> </p>
 
-- 🌱 I’m currently learning **MERN Stuck Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my portfolios are available at [https://portfolio-five-virid-64.vercel.app/](https://portfolio-five-virid-64.vercel.app/)
 
