@@ -1,7 +1,7 @@
-<img alt="MERN Stuck Developer" src="https://github.com/Robiul-Haque/Robiul-Haque/blob/main/banner.gif"/>
+<img alt="MERN Stuck Developer" src="https://github.com/Robiul-Haque/Robiul-Haque/blob/main/Robiul%20Haque.gif?raw=true"/>
 
 <h1 align="center">Hi 👋, I'm Robiul Haque</h1>
-<h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<h3 align="center">A passionate React developer from Bangladesh</h3>
 
 <img align="right" alt="Frontend Developer" width="360" src="https://github.com/Robiul-Haque/Robiul-Haque/blob/main/coding.gif"/>
 
