@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **robiulcoc420@gmail.com**
 
-- <a href="https://drive.google.com/file/d/1QTDcmsNz37ACRCOf1y9cZL3sIe6WrZ7x/view">My Resume</a>
+- <a href="https://drive.google.com/file/d/1QTDcmsNz37ACRCOf1y9cZL3sIe6WrZ7x/view" target="_blank">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
